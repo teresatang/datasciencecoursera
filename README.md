@@ -1,2 +1,2 @@
 # datasciencecoursera
-# this repo is created for the course project
+this repo is created for the course project
